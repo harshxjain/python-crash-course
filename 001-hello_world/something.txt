@@ -1,0 +1,2 @@
+this is just ext to write something. i got c++ to work on vs code and the output is running on the intergrated terminal
+AND it is a bash terminal. this is great
